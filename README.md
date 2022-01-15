@@ -1,2 +1,2 @@
-# Graph & Cities
-Representation of Cities and thier connections with Graphs in Python
+# Graph & cities
+Representation of cities and their connections with graphs using python.
