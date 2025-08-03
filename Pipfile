@@ -4,8 +4,10 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pytest = ">=7.0.0"
 
 [packages]
+# No external dependencies required for core functionality
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
