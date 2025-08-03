@@ -43,7 +43,7 @@ Graph-Cities/
 └── setup_venv.sh       # Setup script
 ```
 
-## �� Usage
+## Usage
 
 ```python
 from src.Graph import Graph
